@@ -4,7 +4,7 @@ import (
 
 	"fmt"
 
-	"awesomeProject/github.com/MyPublicChain/BLC"
+	"github.com/iyongdao/MyPublicChain/BLC"
 )
 
 func main() {
